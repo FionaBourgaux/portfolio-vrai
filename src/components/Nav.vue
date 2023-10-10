@@ -23,6 +23,7 @@ import { RouterLink } from "vue-router";
           <NavLink url="/" text="Accueil" />
           <NavLink url="/projects" text="Projets" />
           <NavLink url="/about" text="À propos" />
+          <NavLink url="/contact" text="Contact" />
         </ul>
       </div>
     </div>
